@@ -2,5 +2,3 @@ commit1
 commit2
 commit3
 commit-x
-commit4
-commit5
